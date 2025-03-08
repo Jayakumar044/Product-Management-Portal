@@ -1,7 +1,7 @@
 # Product Management System
 
 ## Project Overview
-The **Product Management System** is a web application designed to help users manage product inventory, track sales, and analyze profits. It provides a user-friendly interface for adding, updating, and deleting products, as well as visualizing sales data through charts. The system is built using **React** for the front end and utilizes **localStorage** for data persistence.
+The **Product Management System** is a web application designed to help users manage product inventory, track sales, and analyze profits. It provides a user-friendly interface for adding, updating, and deleting products, as well as visualizing sales data through charts. 
 
 ---
 
@@ -9,8 +9,6 @@ The **Product Management System** is a web application designed to help users ma
 - **Frontend**: React.js
 - **Charting**: Chart.js (for visualizing data)
 - **Styling**: CSS (custom styles for components)
-- **State Management**: React Hooks (`useState`, `useEffect`)
-- **Data Persistence**: localStorage
 
 ---
 
