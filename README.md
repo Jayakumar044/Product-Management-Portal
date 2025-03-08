@@ -1,5 +1,11 @@
 # Product Management System
 
+## Product Management Portal Deployment Link : 
+
+https://product-management-portal-jayakumar.netlify.app/
+
+
+
 ## Project Overview
 The **Product Management System** is a web application designed to help users manage product inventory, track sales, and analyze profits. It provides a user-friendly interface for adding, updating, and deleting products, as well as visualizing sales data through charts. 
 
